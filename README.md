@@ -36,7 +36,7 @@ Do your best to complete as many steps as you can.
 ### Component behavior:
 
 - New items are indicated by blue border.
-- List components can be collapsed by clicking the caret icon. 
+- List components can be collapsed by clicking the caret icon.
 - The entire list item including the icon is clickable to open the record.
 - The component must be responsive.
 - List item icons are hidden in mobile view.
@@ -48,3 +48,8 @@ __Note:__ Do NOT use any CSS frameworks or Angular Libraries.
 
 ### Mobile
 ![Mobile Mock-up](src/assets/mobile.png)
+
+### Final Screenshots after completion
+![Desktop](src/assets/desktop-final.png)
+
+![Mobile](src/assets/mobile-final.png)
